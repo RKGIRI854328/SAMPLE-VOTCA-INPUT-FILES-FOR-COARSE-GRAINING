@@ -1,0 +1,933 @@
+<cg_molecule>
+  <name>CGPI</name>
+  <ident>cisPI</ident>
+  <topology>
+    <cg_beads>
+      <cg_bead>
+        <name>CGS</name>
+        <type>SAR</type>
+        <mapping>SAS</mapping>
+        <beads>1:SRT:CHS 1:SRT:CH0 1:SRT:CH1 1:SRT:CH2 1:SRT:CH3</beads>
+      </cg_bead>
+      <cg_bead>
+        <name>CG1</name>
+        <type>SAR</type>
+        <mapping>SAR</mapping>
+        <beads>2:RPT:CHI 2:RPT:CH0 2:RPT:CH1 2:RPT:CH2 2:RPT:CH3</beads>
+      </cg_bead>
+      <cg_bead>
+        <name>CG2</name>
+        <type>SAR</type>
+        <mapping>SAR</mapping>
+        <beads>3:RPT:CHI 3:RPT:CH0 3:RPT:CH1 3:RPT:CH2 3:RPT:CH3</beads>
+      </cg_bead>
+      <cg_bead>
+        <name>CG3</name>
+        <type>SAR</type>
+        <mapping>SAR</mapping>
+        <beads>4:RPT:CHI 4:RPT:CH0 4:RPT:CH1 4:RPT:CH2 4:RPT:CH3</beads>
+      </cg_bead>
+      <cg_bead>
+        <name>CG4</name>
+        <type>SAR</type>
+        <mapping>SAR</mapping>
+        <beads>5:RPT:CHI 5:RPT:CH0 5:RPT:CH1 5:RPT:CH2 5:RPT:CH3</beads>
+      </cg_bead>
+      <cg_bead>
+        <name>CG5</name>
+        <type>SAR</type>
+        <mapping>SAR</mapping>
+        <beads>6:RPT:CHI 6:RPT:CH0 6:RPT:CH1 6:RPT:CH2 6:RPT:CH3</beads>
+      </cg_bead>
+      <cg_bead>
+        <name>CG6</name>
+        <type>SAR</type>
+        <mapping>SAR</mapping>
+        <beads>7:RPT:CHI 7:RPT:CH0 7:RPT:CH1 7:RPT:CH2 7:RPT:CH3</beads>
+      </cg_bead>
+      <cg_bead>
+        <name>CG7</name>
+        <type>SAR</type>
+        <mapping>SAR</mapping>
+        <beads>8:RPT:CHI 8:RPT:CH0 8:RPT:CH1 8:RPT:CH2 8:RPT:CH3</beads>
+      </cg_bead>
+      <cg_bead>
+        <name>CG8</name>
+        <type>SAR</type>
+        <mapping>SAR</mapping>
+        <beads>9:RPT:CHI 9:RPT:CH0 9:RPT:CH1 9:RPT:CH2 9:RPT:CH3</beads>
+      </cg_bead>
+      <cg_bead>
+        <name>CG9</name>
+        <type>SAR</type>
+        <mapping>SAR</mapping>
+        <beads>10:RPT:CHI 10:RPT:CH0 10:RPT:CH1 10:RPT:CH2 10:RPT:CH3</beads>
+      </cg_bead>
+      <cg_bead>
+        <name>CG10</name>
+        <type>SAR</type>
+        <mapping>SAR</mapping>
+        <beads>11:RPT:CHI 11:RPT:CH0 11:RPT:CH1 11:RPT:CH2 11:RPT:CH3</beads>
+      </cg_bead>
+      <cg_bead>
+        <name>CG11</name>
+        <type>SAR</type>
+        <mapping>SAR</mapping>
+        <beads>12:RPT:CHI 12:RPT:CH0 12:RPT:CH1 12:RPT:CH2 12:RPT:CH3</beads>
+      </cg_bead>
+      <cg_bead>
+        <name>CG12</name>
+        <type>SAR</type>
+        <mapping>SAR</mapping>
+        <beads>13:RPT:CHI 13:RPT:CH0 13:RPT:CH1 13:RPT:CH2 13:RPT:CH3</beads>
+      </cg_bead>
+      <cg_bead>
+        <name>CG13</name>
+        <type>SAR</type>
+        <mapping>SAR</mapping>
+        <beads>14:RPT:CHI 14:RPT:CH0 14:RPT:CH1 14:RPT:CH2 14:RPT:CH3</beads>
+      </cg_bead>
+      <cg_bead>
+        <name>CG14</name>
+        <type>SAR</type>
+        <mapping>SAR</mapping>
+        <beads>15:RPT:CHI 15:RPT:CH0 15:RPT:CH1 15:RPT:CH2 15:RPT:CH3</beads>
+      </cg_bead>
+      <cg_bead>
+        <name>CG15</name>
+        <type>SAR</type>
+        <mapping>SAR</mapping>
+        <beads>16:RPT:CHI 16:RPT:CH0 16:RPT:CH1 16:RPT:CH2 16:RPT:CH3</beads>
+      </cg_bead>
+      <cg_bead>
+        <name>CG16</name>
+        <type>SAR</type>
+        <mapping>SAR</mapping>
+        <beads>17:RPT:CHI 17:RPT:CH0 17:RPT:CH1 17:RPT:CH2 17:RPT:CH3</beads>
+      </cg_bead>
+      <cg_bead>
+        <name>CG17</name>
+        <type>SAR</type>
+        <mapping>SAR</mapping>
+        <beads>18:RPT:CHI 18:RPT:CH0 18:RPT:CH1 18:RPT:CH2 18:RPT:CH3</beads>
+      </cg_bead>
+      <cg_bead>
+        <name>CG18</name>
+        <type>SAR</type>
+        <mapping>SAR</mapping>
+        <beads>19:RPT:CHI 19:RPT:CH0 19:RPT:CH1 19:RPT:CH2 19:RPT:CH3</beads>
+      </cg_bead>
+      <cg_bead>
+        <name>CG19</name>
+        <type>SAR</type>
+        <mapping>SAR</mapping>
+        <beads>20:RPT:CHI 20:RPT:CH0 20:RPT:CH1 20:RPT:CH2 20:RPT:CH3</beads>
+      </cg_bead>
+      <cg_bead>
+        <name>CG20</name>
+        <type>SAR</type>
+        <mapping>SAR</mapping>
+        <beads>21:RPT:CHI 21:RPT:CH0 21:RPT:CH1 21:RPT:CH2 21:RPT:CH3</beads>
+      </cg_bead>
+      <cg_bead>
+        <name>CG21</name>
+        <type>SAR</type>
+        <mapping>SAR</mapping>
+        <beads>22:RPT:CHI 22:RPT:CH0 22:RPT:CH1 22:RPT:CH2 22:RPT:CH3</beads>
+      </cg_bead>
+      <cg_bead>
+        <name>CG22</name>
+        <type>SAR</type>
+        <mapping>SAR</mapping>
+        <beads>23:RPT:CHI 23:RPT:CH0 23:RPT:CH1 23:RPT:CH2 23:RPT:CH3</beads>
+      </cg_bead>
+      <cg_bead>
+        <name>CG23</name>
+        <type>SAR</type>
+        <mapping>SAR</mapping>
+        <beads>24:RPT:CHI 24:RPT:CH0 24:RPT:CH1 24:RPT:CH2 24:RPT:CH3</beads>
+      </cg_bead>
+      <cg_bead>
+        <name>CG24</name>
+        <type>SAR</type>
+        <mapping>SAR</mapping>
+        <beads>25:RPT:CHI 25:RPT:CH0 25:RPT:CH1 25:RPT:CH2 25:RPT:CH3</beads>
+      </cg_bead>
+      <cg_bead>
+        <name>CG25</name>
+        <type>SAR</type>
+        <mapping>SAR</mapping>
+        <beads>26:RPT:CHI 26:RPT:CH0 26:RPT:CH1 26:RPT:CH2 26:RPT:CH3</beads>
+      </cg_bead>
+      <cg_bead>
+        <name>CG26</name>
+        <type>SAR</type>
+        <mapping>SAR</mapping>
+        <beads>27:RPT:CHI 27:RPT:CH0 27:RPT:CH1 27:RPT:CH2 27:RPT:CH3</beads>
+      </cg_bead>
+      <cg_bead>
+        <name>CG27</name>
+        <type>SAR</type>
+        <mapping>SAR</mapping>
+        <beads>28:RPT:CHI 28:RPT:CH0 28:RPT:CH1 28:RPT:CH2 28:RPT:CH3</beads>
+      </cg_bead>
+      <cg_bead>
+        <name>CG28</name>
+        <type>SAR</type>
+        <mapping>SAR</mapping>
+        <beads>29:RPT:CHI 29:RPT:CH0 29:RPT:CH1 29:RPT:CH2 29:RPT:CH3</beads>
+      </cg_bead>
+      <cg_bead>
+        <name>CG29</name>
+        <type>SAR</type>
+        <mapping>SAR</mapping>
+        <beads>30:RPT:CHI 30:RPT:CH0 30:RPT:CH1 30:RPT:CH2 30:RPT:CH3</beads>
+      </cg_bead>
+      <cg_bead>
+        <name>CG30</name>
+        <type>SAR</type>
+        <mapping>SAR</mapping>
+        <beads>31:RPT:CHI 31:RPT:CH0 31:RPT:CH1 31:RPT:CH2 31:RPT:CH3</beads>
+      </cg_bead>
+      <cg_bead>
+        <name>CG31</name>
+        <type>SAR</type>
+        <mapping>SAR</mapping>
+        <beads>32:RPT:CHI 32:RPT:CH0 32:RPT:CH1 32:RPT:CH2 32:RPT:CH3</beads>
+      </cg_bead>
+      <cg_bead>
+        <name>CG32</name>
+        <type>SAR</type>
+        <mapping>SAR</mapping>
+        <beads>33:RPT:CHI 33:RPT:CH0 33:RPT:CH1 33:RPT:CH2 33:RPT:CH3</beads>
+      </cg_bead>
+      <cg_bead>
+        <name>CG33</name>
+        <type>SAR</type>
+        <mapping>SAR</mapping>
+        <beads>34:RPT:CHI 34:RPT:CH0 34:RPT:CH1 34:RPT:CH2 34:RPT:CH3</beads>
+      </cg_bead>
+      <cg_bead>
+        <name>CG34</name>
+        <type>SAR</type>
+        <mapping>SAR</mapping>
+        <beads>35:RPT:CHI 35:RPT:CH0 35:RPT:CH1 35:RPT:CH2 35:RPT:CH3</beads>
+      </cg_bead>
+      <cg_bead>
+        <name>CG35</name>
+        <type>SAR</type>
+        <mapping>SAR</mapping>
+        <beads>36:RPT:CHI 36:RPT:CH0 36:RPT:CH1 36:RPT:CH2 36:RPT:CH3</beads>
+      </cg_bead>
+      <cg_bead>
+        <name>CG36</name>
+        <type>SAR</type>
+        <mapping>SAR</mapping>
+        <beads>37:RPT:CHI 37:RPT:CH0 37:RPT:CH1 37:RPT:CH2 37:RPT:CH3</beads>
+      </cg_bead>
+      <cg_bead>
+        <name>CG37</name>
+        <type>SAR</type>
+        <mapping>SAR</mapping>
+        <beads>38:RPT:CHI 38:RPT:CH0 38:RPT:CH1 38:RPT:CH2 38:RPT:CH3</beads>
+      </cg_bead>
+      <cg_bead>
+        <name>CG38</name>
+        <type>SAR</type>
+        <mapping>SAR</mapping>
+        <beads>39:RPT:CHI 39:RPT:CH0 39:RPT:CH1 39:RPT:CH2 39:RPT:CH3</beads>
+      </cg_bead>
+      <cg_bead>
+        <name>CG39</name>
+        <type>SAR</type>
+        <mapping>SAR</mapping>
+        <beads>40:RPT:CHI 40:RPT:CH0 40:RPT:CH1 40:RPT:CH2 40:RPT:CH3</beads>
+      </cg_bead>
+      <cg_bead>
+        <name>CG40</name>
+        <type>SAR</type>
+        <mapping>SAR</mapping>
+        <beads>41:RPT:CHI 41:RPT:CH0 41:RPT:CH1 41:RPT:CH2 41:RPT:CH3</beads>
+      </cg_bead>
+      <cg_bead>
+        <name>CG41</name>
+        <type>SAR</type>
+        <mapping>SAR</mapping>
+        <beads>42:RPT:CHI 42:RPT:CH0 42:RPT:CH1 42:RPT:CH2 42:RPT:CH3</beads>
+      </cg_bead>
+      <cg_bead>
+        <name>CG42</name>
+        <type>SAR</type>
+        <mapping>SAR</mapping>
+        <beads>43:RPT:CHI 43:RPT:CH0 43:RPT:CH1 43:RPT:CH2 43:RPT:CH3</beads>
+      </cg_bead>
+      <cg_bead>
+        <name>CG43</name>
+        <type>SAR</type>
+        <mapping>SAR</mapping>
+        <beads>44:RPT:CHI 44:RPT:CH0 44:RPT:CH1 44:RPT:CH2 44:RPT:CH3</beads>
+      </cg_bead>
+      <cg_bead>
+        <name>CG44</name>
+        <type>SAR</type>
+        <mapping>SAR</mapping>
+        <beads>45:RPT:CHI 45:RPT:CH0 45:RPT:CH1 45:RPT:CH2 45:RPT:CH3</beads>
+      </cg_bead>
+      <cg_bead>
+        <name>CG45</name>
+        <type>SAR</type>
+        <mapping>SAR</mapping>
+        <beads>46:RPT:CHI 46:RPT:CH0 46:RPT:CH1 46:RPT:CH2 46:RPT:CH3</beads>
+      </cg_bead>
+      <cg_bead>
+        <name>CG46</name>
+        <type>SAR</type>
+        <mapping>SAR</mapping>
+        <beads>47:RPT:CHI 47:RPT:CH0 47:RPT:CH1 47:RPT:CH2 47:RPT:CH3</beads>
+      </cg_bead>
+      <cg_bead>
+        <name>CG47</name>
+        <type>SAR</type>
+        <mapping>SAR</mapping>
+        <beads>48:RPT:CHI 48:RPT:CH0 48:RPT:CH1 48:RPT:CH2 48:RPT:CH3</beads>
+      </cg_bead>
+      <cg_bead>
+        <name>CG48</name>
+        <type>SAR</type>
+        <mapping>SAR</mapping>
+        <beads>49:RPT:CHI 49:RPT:CH0 49:RPT:CH1 49:RPT:CH2 49:RPT:CH3</beads>
+      </cg_bead>
+      <cg_bead>
+        <name>CG49</name>
+        <type>SAR</type>
+        <mapping>SAR</mapping>
+        <beads>50:RPT:CHI 50:RPT:CH0 50:RPT:CH1 50:RPT:CH2 50:RPT:CH3</beads>
+      </cg_bead>
+      <cg_bead>
+        <name>CG50</name>
+        <type>SAR</type>
+        <mapping>SAR</mapping>
+        <beads>51:RPT:CHI 51:RPT:CH0 51:RPT:CH1 51:RPT:CH2 51:RPT:CH3</beads>
+      </cg_bead>
+      <cg_bead>
+        <name>CG51</name>
+        <type>SAR</type>
+        <mapping>SAR</mapping>
+        <beads>52:RPT:CHI 52:RPT:CH0 52:RPT:CH1 52:RPT:CH2 52:RPT:CH3</beads>
+      </cg_bead>
+      <cg_bead>
+        <name>CG52</name>
+        <type>SAR</type>
+        <mapping>SAR</mapping>
+        <beads>53:RPT:CHI 53:RPT:CH0 53:RPT:CH1 53:RPT:CH2 53:RPT:CH3</beads>
+      </cg_bead>
+      <cg_bead>
+        <name>CG53</name>
+        <type>SAR</type>
+        <mapping>SAR</mapping>
+        <beads>54:RPT:CHI 54:RPT:CH0 54:RPT:CH1 54:RPT:CH2 54:RPT:CH3</beads>
+      </cg_bead>
+      <cg_bead>
+        <name>CG54</name>
+        <type>SAR</type>
+        <mapping>SAR</mapping>
+        <beads>55:RPT:CHI 55:RPT:CH0 55:RPT:CH1 55:RPT:CH2 55:RPT:CH3</beads>
+      </cg_bead>
+      <cg_bead>
+        <name>CG55</name>
+        <type>SAR</type>
+        <mapping>SAR</mapping>
+        <beads>56:RPT:CHI 56:RPT:CH0 56:RPT:CH1 56:RPT:CH2 56:RPT:CH3</beads>
+      </cg_bead>
+      <cg_bead>
+        <name>CG56</name>
+        <type>SAR</type>
+        <mapping>SAR</mapping>
+        <beads>57:RPT:CHI 57:RPT:CH0 57:RPT:CH1 57:RPT:CH2 57:RPT:CH3</beads>
+      </cg_bead>
+      <cg_bead>
+        <name>CG57</name>
+        <type>SAR</type>
+        <mapping>SAR</mapping>
+        <beads>58:RPT:CHI 58:RPT:CH0 58:RPT:CH1 58:RPT:CH2 58:RPT:CH3</beads>
+      </cg_bead>
+      <cg_bead>
+        <name>CG58</name>
+        <type>SAR</type>
+        <mapping>SAR</mapping>
+        <beads>59:RPT:CHI 59:RPT:CH0 59:RPT:CH1 59:RPT:CH2 59:RPT:CH3</beads>
+      </cg_bead>
+      <cg_bead>
+        <name>CG59</name>
+        <type>SAR</type>
+        <mapping>SAR</mapping>
+        <beads>60:RPT:CHI 60:RPT:CH0 60:RPT:CH1 60:RPT:CH2 60:RPT:CH3</beads>
+      </cg_bead>
+      <cg_bead>
+        <name>CG60</name>
+        <type>SAR</type>
+        <mapping>SAR</mapping>
+        <beads>61:RPT:CHI 61:RPT:CH0 61:RPT:CH1 61:RPT:CH2 61:RPT:CH3</beads>
+      </cg_bead>
+      <cg_bead>
+        <name>CG61</name>
+        <type>SAR</type>
+        <mapping>SAR</mapping>
+        <beads>62:RPT:CHI 62:RPT:CH0 62:RPT:CH1 62:RPT:CH2 62:RPT:CH3</beads>
+      </cg_bead>
+      <cg_bead>
+        <name>CG62</name>
+        <type>SAR</type>
+        <mapping>SAR</mapping>
+        <beads>63:RPT:CHI 63:RPT:CH0 63:RPT:CH1 63:RPT:CH2 63:RPT:CH3</beads>
+      </cg_bead>
+      <cg_bead>
+        <name>CG63</name>
+        <type>SAR</type>
+        <mapping>SAR</mapping>
+        <beads>64:RPT:CHI 64:RPT:CH0 64:RPT:CH1 64:RPT:CH2 64:RPT:CH3</beads>
+      </cg_bead>
+      <cg_bead>
+        <name>CG64</name>
+        <type>SAR</type>
+        <mapping>SAR</mapping>
+        <beads>65:RPT:CHI 65:RPT:CH0 65:RPT:CH1 65:RPT:CH2 65:RPT:CH3</beads>
+      </cg_bead>
+      <cg_bead>
+        <name>CG65</name>
+        <type>SAR</type>
+        <mapping>SAR</mapping>
+        <beads>66:RPT:CHI 66:RPT:CH0 66:RPT:CH1 66:RPT:CH2 66:RPT:CH3</beads>
+      </cg_bead>
+      <cg_bead>
+        <name>CG66</name>
+        <type>SAR</type>
+        <mapping>SAR</mapping>
+        <beads>67:RPT:CHI 67:RPT:CH0 67:RPT:CH1 67:RPT:CH2 67:RPT:CH3</beads>
+      </cg_bead>
+      <cg_bead>
+        <name>CG67</name>
+        <type>SAR</type>
+        <mapping>SAR</mapping>
+        <beads>68:RPT:CHI 68:RPT:CH0 68:RPT:CH1 68:RPT:CH2 68:RPT:CH3</beads>
+      </cg_bead>
+      <cg_bead>
+        <name>CG68</name>
+        <type>SAR</type>
+        <mapping>SAR</mapping>
+        <beads>69:RPT:CHI 69:RPT:CH0 69:RPT:CH1 69:RPT:CH2 69:RPT:CH3</beads>
+      </cg_bead>
+      <cg_bead>
+        <name>CG69</name>
+        <type>SAR</type>
+        <mapping>SAR</mapping>
+        <beads>70:RPT:CHI 70:RPT:CH0 70:RPT:CH1 70:RPT:CH2 70:RPT:CH3</beads>
+      </cg_bead>
+      <cg_bead>
+        <name>CG70</name>
+        <type>SAR</type>
+        <mapping>SAR</mapping>
+        <beads>71:RPT:CHI 71:RPT:CH0 71:RPT:CH1 71:RPT:CH2 71:RPT:CH3</beads>
+      </cg_bead>
+      <cg_bead>
+        <name>CG71</name>
+        <type>SAR</type>
+        <mapping>SAR</mapping>
+        <beads>72:RPT:CHI 72:RPT:CH0 72:RPT:CH1 72:RPT:CH2 72:RPT:CH3</beads>
+      </cg_bead>
+      <cg_bead>
+        <name>CG72</name>
+        <type>SAR</type>
+        <mapping>SAR</mapping>
+        <beads>73:RPT:CHI 73:RPT:CH0 73:RPT:CH1 73:RPT:CH2 73:RPT:CH3</beads>
+      </cg_bead>
+      <cg_bead>
+        <name>CG73</name>
+        <type>SAR</type>
+        <mapping>SAR</mapping>
+        <beads>74:RPT:CHI 74:RPT:CH0 74:RPT:CH1 74:RPT:CH2 74:RPT:CH3</beads>
+      </cg_bead>
+      <cg_bead>
+        <name>CG74</name>
+        <type>SAR</type>
+        <mapping>SAR</mapping>
+        <beads>75:RPT:CHI 75:RPT:CH0 75:RPT:CH1 75:RPT:CH2 75:RPT:CH3</beads>
+      </cg_bead>
+      <cg_bead>
+        <name>CG75</name>
+        <type>SAR</type>
+        <mapping>SAR</mapping>
+        <beads>76:RPT:CHI 76:RPT:CH0 76:RPT:CH1 76:RPT:CH2 76:RPT:CH3</beads>
+      </cg_bead>
+      <cg_bead>
+        <name>CG76</name>
+        <type>SAR</type>
+        <mapping>SAR</mapping>
+        <beads>77:RPT:CHI 77:RPT:CH0 77:RPT:CH1 77:RPT:CH2 77:RPT:CH3</beads>
+      </cg_bead>
+      <cg_bead>
+        <name>CG77</name>
+        <type>SAR</type>
+        <mapping>SAR</mapping>
+        <beads>78:RPT:CHI 78:RPT:CH0 78:RPT:CH1 78:RPT:CH2 78:RPT:CH3</beads>
+      </cg_bead>
+      <cg_bead>
+        <name>CG78</name>
+        <type>SAR</type>
+        <mapping>SAR</mapping>
+        <beads>79:RPT:CHI 79:RPT:CH0 79:RPT:CH1 79:RPT:CH2 79:RPT:CH3</beads>
+      </cg_bead>
+      <cg_bead>
+        <name>CG79</name>
+        <type>SAR</type>
+        <mapping>SAR</mapping>
+        <beads>80:RPT:CHI 80:RPT:CH0 80:RPT:CH1 80:RPT:CH2 80:RPT:CH3</beads>
+      </cg_bead>
+      <cg_bead>
+        <name>CG80</name>
+        <type>SAR</type>
+        <mapping>SAR</mapping>
+        <beads>81:RPT:CHI 81:RPT:CH0 81:RPT:CH1 81:RPT:CH2 81:RPT:CH3</beads>
+      </cg_bead>
+      <cg_bead>
+        <name>CG81</name>
+        <type>SAR</type>
+        <mapping>SAR</mapping>
+        <beads>82:RPT:CHI 82:RPT:CH0 82:RPT:CH1 82:RPT:CH2 82:RPT:CH3</beads>
+      </cg_bead>
+      <cg_bead>
+        <name>CG82</name>
+        <type>SAR</type>
+        <mapping>SAR</mapping>
+        <beads>83:RPT:CHI 83:RPT:CH0 83:RPT:CH1 83:RPT:CH2 83:RPT:CH3</beads>
+      </cg_bead>
+      <cg_bead>
+        <name>CG83</name>
+        <type>SAR</type>
+        <mapping>SAR</mapping>
+        <beads>84:RPT:CHI 84:RPT:CH0 84:RPT:CH1 84:RPT:CH2 84:RPT:CH3</beads>
+      </cg_bead>
+      <cg_bead>
+        <name>CG84</name>
+        <type>SAR</type>
+        <mapping>SAR</mapping>
+        <beads>85:RPT:CHI 85:RPT:CH0 85:RPT:CH1 85:RPT:CH2 85:RPT:CH3</beads>
+      </cg_bead>
+      <cg_bead>
+        <name>CG85</name>
+        <type>SAR</type>
+        <mapping>SAR</mapping>
+        <beads>86:RPT:CHI 86:RPT:CH0 86:RPT:CH1 86:RPT:CH2 86:RPT:CH3</beads>
+      </cg_bead>
+      <cg_bead>
+        <name>CG86</name>
+        <type>SAR</type>
+        <mapping>SAR</mapping>
+        <beads>87:RPT:CHI 87:RPT:CH0 87:RPT:CH1 87:RPT:CH2 87:RPT:CH3</beads>
+      </cg_bead>
+      <cg_bead>
+        <name>CG87</name>
+        <type>SAR</type>
+        <mapping>SAR</mapping>
+        <beads>88:RPT:CHI 88:RPT:CH0 88:RPT:CH1 88:RPT:CH2 88:RPT:CH3</beads>
+      </cg_bead>
+      <cg_bead>
+        <name>CG88</name>
+        <type>SAR</type>
+        <mapping>SAR</mapping>
+        <beads>89:RPT:CHI 89:RPT:CH0 89:RPT:CH1 89:RPT:CH2 89:RPT:CH3</beads>
+      </cg_bead>
+      <cg_bead>
+        <name>CG89</name>
+        <type>SAR</type>
+        <mapping>SAR</mapping>
+        <beads>90:RPT:CHI 90:RPT:CH0 90:RPT:CH1 90:RPT:CH2 90:RPT:CH3</beads>
+      </cg_bead>
+      <cg_bead>
+        <name>CG90</name>
+        <type>SAR</type>
+        <mapping>SAR</mapping>
+        <beads>91:RPT:CHI 91:RPT:CH0 91:RPT:CH1 91:RPT:CH2 91:RPT:CH3</beads>
+      </cg_bead>
+      <cg_bead>
+        <name>CG91</name>
+        <type>SAR</type>
+        <mapping>SAR</mapping>
+        <beads>92:RPT:CHI 92:RPT:CH0 92:RPT:CH1 92:RPT:CH2 92:RPT:CH3</beads>
+      </cg_bead>
+      <cg_bead>
+        <name>CG92</name>
+        <type>SAR</type>
+        <mapping>SAR</mapping>
+        <beads>93:RPT:CHI 93:RPT:CH0 93:RPT:CH1 93:RPT:CH2 93:RPT:CH3</beads>
+      </cg_bead>
+      <cg_bead>
+        <name>CG93</name>
+        <type>SAR</type>
+        <mapping>SAR</mapping>
+        <beads>94:RPT:CHI 94:RPT:CH0 94:RPT:CH1 94:RPT:CH2 94:RPT:CH3</beads>
+      </cg_bead>
+      <cg_bead>
+        <name>CG94</name>
+        <type>SAR</type>
+        <mapping>SAR</mapping>
+        <beads>95:RPT:CHI 95:RPT:CH0 95:RPT:CH1 95:RPT:CH2 95:RPT:CH3</beads>
+      </cg_bead>
+      <cg_bead>
+        <name>CG95</name>
+        <type>SAR</type>
+        <mapping>SAR</mapping>
+        <beads>96:RPT:CHI 96:RPT:CH0 96:RPT:CH1 96:RPT:CH2 96:RPT:CH3</beads>
+      </cg_bead>
+      <cg_bead>
+        <name>CG96</name>
+        <type>SAR</type>
+        <mapping>SAR</mapping>
+        <beads>97:RPT:CHI 97:RPT:CH0 97:RPT:CH1 97:RPT:CH2 97:RPT:CH3</beads>
+      </cg_bead>
+      <cg_bead>
+        <name>CG97</name>
+        <type>SAR</type>
+        <mapping>SAR</mapping>
+        <beads>98:RPT:CHI 98:RPT:CH0 98:RPT:CH1 98:RPT:CH2 98:RPT:CH3</beads>
+      </cg_bead>
+      <cg_bead>
+        <name>CG98</name>
+        <type>SAR</type>
+        <mapping>SAR</mapping>
+        <beads>99:RPT:CHI 99:RPT:CH0 99:RPT:CH1 99:RPT:CH2 99:RPT:CH3</beads>
+      </cg_bead>
+      <cg_bead>
+        <name>CGE</name>
+        <type>SAR</type>
+        <mapping>SAE</mapping>
+        <beads>100:END:CHI 100:END:CH0 100:END:CH1 100:END:CHE 100:END:CH3</beads>
+      </cg_bead>
+    </cg_beads>
+    <cg_bonded>
+      <bond>
+        <name>bondrep</name>
+        <beads>
+        CGS CG1
+        CG1 CG2
+        CG2 CG3
+        CG3 CG4
+        CG4 CG5
+        CG5 CG6
+        CG6 CG7
+        CG7 CG8
+        CG8 CG9
+        CG9 CG10
+        CG10 CG11
+        CG11 CG12
+        CG12 CG13
+        CG13 CG14
+        CG14 CG15
+        CG15 CG16
+        CG16 CG17
+        CG17 CG18
+        CG18 CG19
+        CG19 CG20
+        CG20 CG21
+        CG21 CG22
+        CG22 CG23
+        CG23 CG24
+        CG24 CG25
+        CG25 CG26
+        CG26 CG27
+        CG27 CG28
+        CG28 CG29
+        CG29 CG30
+        CG30 CG31
+        CG31 CG32
+        CG32 CG33
+        CG33 CG34
+        CG34 CG35
+        CG35 CG36
+        CG36 CG37
+        CG37 CG38
+        CG38 CG39
+        CG39 CG40
+        CG40 CG41
+        CG41 CG42
+        CG42 CG43
+        CG43 CG44
+        CG44 CG45
+        CG45 CG46
+        CG46 CG47
+        CG47 CG48
+        CG48 CG49
+        CG49 CG50
+        CG50 CG51
+        CG51 CG52
+        CG52 CG53
+        CG53 CG54
+        CG54 CG55
+        CG55 CG56
+        CG56 CG57
+        CG57 CG58
+        CG58 CG59
+        CG59 CG60
+        CG60 CG61
+        CG61 CG62
+        CG62 CG63
+        CG63 CG64
+        CG64 CG65
+        CG65 CG66
+        CG66 CG67
+        CG67 CG68
+        CG68 CG69
+        CG69 CG70
+        CG70 CG71
+        CG71 CG72
+        CG72 CG73
+        CG73 CG74
+        CG74 CG75
+        CG75 CG76
+        CG76 CG77
+        CG77 CG78
+        CG78 CG79
+        CG79 CG80
+        CG80 CG81
+        CG81 CG82
+        CG82 CG83
+        CG83 CG84
+        CG84 CG85
+        CG85 CG86
+        CG86 CG87
+        CG87 CG88
+        CG88 CG89
+        CG89 CG90
+        CG90 CG91
+        CG91 CG92
+        CG92 CG93
+        CG93 CG94
+        CG94 CG95
+        CG95 CG96
+        CG96 CG97
+        CG97 CG98
+        CG98 CGE
+        </beads>
+      </bond>
+      <angle>
+        <name>anglerep</name>
+        <beads>
+        CGS CG1 CG2
+        CG1 CG2 CG3
+        CG2 CG3 CG4
+        CG3 CG4 CG5
+        CG4 CG5 CG6
+        CG5 CG6 CG7
+        CG6 CG7 CG8
+        CG7 CG8 CG9
+        CG8 CG9 CG10
+        CG9 CG10 CG11
+        CG10 CG11 CG12
+        CG11 CG12 CG13
+        CG12 CG13 CG14
+        CG13 CG14 CG15
+        CG14 CG15 CG16
+        CG15 CG16 CG17
+        CG16 CG17 CG18
+        CG17 CG18 CG19
+        CG18 CG19 CG20
+        CG19 CG20 CG21
+        CG20 CG21 CG22
+        CG21 CG22 CG23
+        CG22 CG23 CG24
+        CG23 CG24 CG25
+        CG24 CG25 CG26
+        CG25 CG26 CG27
+        CG26 CG27 CG28
+        CG27 CG28 CG29
+        CG28 CG29 CG30
+        CG29 CG30 CG31
+        CG30 CG31 CG32
+        CG31 CG32 CG33
+        CG32 CG33 CG34
+        CG33 CG34 CG35
+        CG34 CG35 CG36
+        CG35 CG36 CG37
+        CG36 CG37 CG38
+        CG37 CG38 CG39
+        CG38 CG39 CG40
+        CG39 CG40 CG41
+        CG40 CG41 CG42
+        CG41 CG42 CG43
+        CG42 CG43 CG44
+        CG43 CG44 CG45
+        CG44 CG45 CG46
+        CG45 CG46 CG47
+        CG46 CG47 CG48
+        CG47 CG48 CG49
+        CG48 CG49 CG50
+        CG49 CG50 CG51
+        CG50 CG51 CG52
+        CG51 CG52 CG53
+        CG52 CG53 CG54
+        CG53 CG54 CG55
+        CG54 CG55 CG56
+        CG55 CG56 CG57
+        CG56 CG57 CG58
+        CG57 CG58 CG59
+        CG58 CG59 CG60
+        CG59 CG60 CG61
+        CG60 CG61 CG62
+        CG61 CG62 CG63
+        CG62 CG63 CG64
+        CG63 CG64 CG65
+        CG64 CG65 CG66
+        CG65 CG66 CG67
+        CG66 CG67 CG68
+        CG67 CG68 CG69
+        CG68 CG69 CG70
+        CG69 CG70 CG71
+        CG70 CG71 CG72
+        CG71 CG72 CG73
+        CG72 CG73 CG74
+        CG73 CG74 CG75
+        CG74 CG75 CG76
+        CG75 CG76 CG77
+        CG76 CG77 CG78
+        CG77 CG78 CG79
+        CG78 CG79 CG80
+        CG79 CG80 CG81
+        CG80 CG81 CG82
+        CG81 CG82 CG83
+        CG82 CG83 CG84
+        CG83 CG84 CG85
+        CG84 CG85 CG86
+        CG85 CG86 CG87
+        CG86 CG87 CG88
+        CG87 CG88 CG89
+        CG88 CG89 CG90
+        CG89 CG90 CG91
+        CG90 CG91 CG92
+        CG91 CG92 CG93
+        CG92 CG93 CG94
+        CG93 CG94 CG95
+        CG94 CG95 CG96
+        CG95 CG96 CG97
+        CG96 CG97 CG98
+        CG97 CG98 CGE
+        </beads>
+      </angle>
+      <dihedral>
+        <name>dihedralrep</name>
+        <beads>
+        CGS CG1 CG2 CG3
+        CG1 CG2 CG3 CG4
+        CG2 CG3 CG4 CG5
+        CG3 CG4 CG5 CG6
+        CG4 CG5 CG6 CG7
+        CG5 CG6 CG7 CG8
+        CG6 CG7 CG8 CG9
+        CG7 CG8 CG9 CG10
+        CG8 CG9 CG10 CG11
+        CG9 CG10 CG11 CG12
+        CG10 CG11 CG12 CG13
+        CG11 CG12 CG13 CG14
+        CG12 CG13 CG14 CG15
+        CG13 CG14 CG15 CG16
+        CG14 CG15 CG16 CG17
+        CG15 CG16 CG17 CG18
+        CG16 CG17 CG18 CG19
+        CG17 CG18 CG19 CG20
+        CG18 CG19 CG20 CG21
+        CG19 CG20 CG21 CG22
+        CG20 CG21 CG22 CG23
+        CG21 CG22 CG23 CG24
+        CG22 CG23 CG24 CG25
+        CG23 CG24 CG25 CG26
+        CG24 CG25 CG26 CG27
+        CG25 CG26 CG27 CG28
+        CG26 CG27 CG28 CG29
+        CG27 CG28 CG29 CG30
+        CG28 CG29 CG30 CG31
+        CG29 CG30 CG31 CG32
+        CG30 CG31 CG32 CG33
+        CG31 CG32 CG33 CG34
+        CG32 CG33 CG34 CG35
+        CG33 CG34 CG35 CG36
+        CG34 CG35 CG36 CG37
+        CG35 CG36 CG37 CG38
+        CG36 CG37 CG38 CG39
+        CG37 CG38 CG39 CG40
+        CG38 CG39 CG40 CG41
+        CG39 CG40 CG41 CG42
+        CG40 CG41 CG42 CG43
+        CG41 CG42 CG43 CG44
+        CG42 CG43 CG44 CG45
+        CG43 CG44 CG45 CG46
+        CG44 CG45 CG46 CG47
+        CG45 CG46 CG47 CG48
+        CG46 CG47 CG48 CG49
+        CG47 CG48 CG49 CG50
+        CG48 CG49 CG50 CG51
+        CG49 CG50 CG51 CG52
+        CG50 CG51 CG52 CG53
+        CG51 CG52 CG53 CG54
+        CG52 CG53 CG54 CG55
+        CG53 CG54 CG55 CG56
+        CG54 CG55 CG56 CG57
+        CG55 CG56 CG57 CG58
+        CG56 CG57 CG58 CG59
+        CG57 CG58 CG59 CG60
+        CG58 CG59 CG60 CG61
+        CG59 CG60 CG61 CG62
+        CG60 CG61 CG62 CG63
+        CG61 CG62 CG63 CG64
+        CG62 CG63 CG64 CG65
+        CG63 CG64 CG65 CG66
+        CG64 CG65 CG66 CG67
+        CG65 CG66 CG67 CG68
+        CG66 CG67 CG68 CG69
+        CG67 CG68 CG69 CG70
+        CG68 CG69 CG70 CG71
+        CG69 CG70 CG71 CG72
+        CG70 CG71 CG72 CG73
+        CG71 CG72 CG73 CG74
+        CG72 CG73 CG74 CG75
+        CG73 CG74 CG75 CG76
+        CG74 CG75 CG76 CG77
+        CG75 CG76 CG77 CG78
+        CG76 CG77 CG78 CG79
+        CG77 CG78 CG79 CG80
+        CG78 CG79 CG80 CG81
+        CG79 CG80 CG81 CG82
+        CG80 CG81 CG82 CG83
+        CG81 CG82 CG83 CG84
+        CG82 CG83 CG84 CG85
+        CG83 CG84 CG85 CG86
+        CG84 CG85 CG86 CG87
+        CG85 CG86 CG87 CG88
+        CG86 CG87 CG88 CG89
+        CG87 CG88 CG89 CG90
+        CG88 CG89 CG90 CG91
+        CG89 CG90 CG91 CG92
+        CG90 CG91 CG92 CG93
+        CG91 CG92 CG93 CG94
+        CG92 CG93 CG94 CG95
+        CG93 CG94 CG95 CG96
+        CG94 CG95 CG96 CG97
+        CG95 CG96 CG97 CG98
+        CG96 CG97 CG98 CGE
+        </beads>
+      </dihedral>
+    </cg_bonded>
+  </topology>
+  <maps>
+    <map>
+      <name>SAS</name>
+      <weights>15.03500 12.01100 13.01900 14.02700 15.03500</weights>
+    </map>
+    <map>
+      <name>SAR</name>
+      <weights>14.02700 12.01100 13.01900 14.02700 15.03500</weights>
+    </map>
+    <map>
+      <name>SAE</name>
+      <weights>14.02700 12.01100 13.01900 15.03500 15.03500</weights>
+    </map>
+  </maps>
+</cg_molecule>

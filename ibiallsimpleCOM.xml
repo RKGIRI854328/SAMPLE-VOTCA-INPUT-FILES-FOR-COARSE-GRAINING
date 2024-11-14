@@ -1,0 +1,112 @@
+<cg>
+  <bonded>
+    <name>bondrep</name>
+    <min>0.0</min>
+    <max>1.0</max>
+    <step>0.002</step>
+    <inverse>
+      <do_potential>1</do_potential>
+      <target>bondrep.dist.tgt</target>
+      <post_update>scale</post_update>
+      <post_add>convergence</post_add>
+      <post_update_options>
+        <scale>0.01</scale> 
+      </post_update_options>
+      <gromacs>
+        <table>table_b0.xvg</table>
+      </gromacs>
+    </inverse>    
+  </bonded>
+  <bonded>
+    <name>anglerep</name>
+    <min>0.0</min>
+    <max>3.14159</max>
+    <step>0.03</step>
+    <inverse>
+      <do_potential>1</do_potential>
+      <target>anglerep.dist.tgt</target>
+      <post_update>scale</post_update>
+      <post_add>convergence</post_add>
+      <post_update_options>
+        <scale>0.01</scale> 
+      </post_update_options>
+      <gromacs>
+        <table>table_a0.xvg</table>
+      </gromacs>
+    </inverse>    
+  </bonded>
+  <non-bonded>
+    <name>CGPI-CGPI</name>
+    <type1>SAR</type1>
+    <type2>SAR</type2>
+    <min>0</min>
+    <max>2.0</max>
+    <step>0.01</step>
+    <inverse>
+      <do_potential>1</do_potential>
+      <target>CGPI-CGPI.dist.tgt</target>
+      <p_target>1.0</p_target>
+      <post_update>scale pressure</post_update>
+      <post_add>convergence</post_add>
+      <post_update_options>
+        <scale>0.01</scale> 
+        <pressure>
+          <do>1</do>
+          <type>simple</type>
+          <simple>
+          <scale>0.001</scale>
+          </simple>
+        </pressure>
+      </post_update_options>
+      <gromacs>
+        <table>table_CGPI_CGPI.xvg</table>
+      </gromacs>
+    </inverse>
+  </non-bonded>
+  <inverse>
+    <kBT>3.26760243</kBT>
+    <program>gromacs</program>
+    <simulation>
+      <tasks>1</tasks>
+    </simulation>
+    <gromacs>
+      <g_energy>
+        <bin>/Apps/GROMACS/gromacs-2018_mpi/bin/gmx_mpi_d energy</bin>
+      </g_energy>
+      <grompp>
+        <bin>/Apps/GROMACS/gromacs-2018_mpi/bin/gmx_mpi_d grompp</bin>
+      </grompp>
+      <mdp>nvtcg.mdp</mdp>
+      <topol_in>topolCOM.top</topol_in>
+      <conf>confCOM.gro</conf>
+      <index>indexCOM.ndx</index>
+      <conf_out>confout.gro</conf_out>
+      <traj>traj.trr</traj>
+      <mdrun>
+        <command>mpirun -np 16 /Apps/GROMACS/gromacs-2018_mpi/bin/gmx_mpi_d mdrun -ntomp 1 -tableb table_a0.xvg table_b0.xvg</command>
+      </mdrun>
+      <!-- trash so many frames at the beginning -->
+      <equi_time>25</equi_time>
+      <!-- grid for table*.xvg !-->
+      <table_bins>0.002</table_bins>
+      <!-- cut the potential at this value (gromacs bug) -->
+      <pot_max>100000000</pot_max>
+      <!-- extend the tables to this value -->
+      <table_end>2.5</table_end>
+    </gromacs>
+    <map>CGPI_CG_COM.xml</map>
+    <!-- these files are copied for each new run -->
+    <filelist>nvtcg.mdp confCOM.gro topolCOM.top indexCOM.ndx</filelist>
+    <!-- do so many iterations -->
+    <iterations_max>200</iterations_max>
+    <convergence_check>
+      <type>default</type>
+      <limit>0.001</limit>
+    </convergence_check>
+    <!-- ibm: inverse biltzmann imc: inverse monte carlo -->
+    <method>ibi</method>
+    <!-- write log to this file -->
+    <log_file>inverse.log</log_file>
+    <!-- write restart step to this file -->
+  </inverse>
+</cg>

@@ -1,0 +1,28 @@
+<cg>
+  <bonded>
+    <name>bondrep</name>
+    <min>0.0</min>
+    <max>1.0</max>
+    <step>0.002</step>
+  </bonded>
+  <bonded>
+    <name>anglerep</name>
+    <min>0</min>
+    <max>3.14159</max>
+    <step>0.03</step>
+  </bonded>
+  <bonded>
+    <name>dihedralrep</name>
+    <min>-3.075</min>
+    <max>3.075</max>
+    <step>0.05</step>
+  </bonded>
+  <non-bonded>
+    <name>CGPI-CGPI</name>
+    <type1>SAR</type1>
+    <type2>SAR</type2>
+    <min>0</min>
+    <max>3.0</max>
+    <step>0.01</step>
+  </non-bonded>
+</cg>
