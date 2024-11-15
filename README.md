@@ -1,0 +1,1 @@
+These are supporting files for PhD thesis titled "Comparative study of mapping schemes for coarse-graining of cis-1,4-polyisoprene and cis-1,4-polyisoprene-graphene system" at Indian Institute of Technology Madras, India
